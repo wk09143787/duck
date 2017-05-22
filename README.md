@@ -1,1 +1,4 @@
-# ²âÊÔ
+#æµ‹è¯•
+![https://github.com/wk09143787/duck/blob/duck/text.png]
+#ç±»å›¾
+![https://github.com/wk09143787/duck/blob/duck/Duck1.png]
